@@ -8,6 +8,7 @@ public class text {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		int a=5;
 		List<String> list = new ArrayList<String>();
 		list.add("asdf");
 		list.add("kjhcdvzhcj");
