@@ -3,6 +3,8 @@ package democode;
 import java.util.ArrayList;
 import java.util.List;
 
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
+
 public class text {
 
 	public static void main(String[] args) {
@@ -10,6 +12,7 @@ public class text {
 
 		int a=5;
 		System.out.println("Architect");
+		System.out.println("y architect");
 		
 		List<String> list = new ArrayList<String>();
 		list.add("asdf");
