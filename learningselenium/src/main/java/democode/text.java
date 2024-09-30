@@ -9,6 +9,7 @@ public class text {
 		// TODO Auto-generated method stub
 
 		System.out.println("new architect");
+		System.out.println("new architect");
 		List<String> list = new ArrayList<String>();
 		list.add("asdf");
 		list.add("kjhcdvzhcj");
